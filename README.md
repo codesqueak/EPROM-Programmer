@@ -14,6 +14,6 @@ The card is a completely new implementation of the design with a number of impro
 *	LED power indicator
 *	Power test point
 
-For full documentation, see the [documentation pdf](New EPROM Programmer card.pdf).  
+For full documentation, see the [New EPROM Programmer card.pdf](New EPROM Programmer card.pdf).  
 
  ![PCB From JLCPCB](pcb.png)
