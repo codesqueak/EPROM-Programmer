@@ -6,8 +6,8 @@
 
   (title_block
     (title "EPROM Burner 2708 / 2716")
-    (date "2023-05-01")
-    (rev "1.0")
+    (date "2023-06-18")
+    (rev "1.2")
   )
 
   (lib_symbols
