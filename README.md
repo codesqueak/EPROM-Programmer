@@ -1,4 +1,4 @@
-# EPROM-Programmer Version 1.2
+# EPROM-Programmer Version 1.4
 
 2708 / 2716 Simple EPROM Programmer
 
